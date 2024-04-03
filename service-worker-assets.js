@@ -197,7 +197,7 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-dpVIhfGDL4BukwbG7W1h4l1jWRZ4+Ypy+pMepswTLGg=",
+      "hash": "sha256-lDHD7JbfphBdHBE9HEdt2wnkgSKO1HuEqXpCG21AckE=",
       "url": "web-component\/main.js"
     },
     {
@@ -205,5 +205,5 @@
       "url": "web-component\/styles.css"
     }
   ],
-  "version": "eF6Xg6qc"
+  "version": "novPLixE"
 };
